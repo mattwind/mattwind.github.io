@@ -1,7 +1,7 @@
 # Site settings
 title: Matt Wind
 email:
-description: > Just another website on the internet, nothing to see here.
+description: "Just another website on the internet, nothing to see here."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
